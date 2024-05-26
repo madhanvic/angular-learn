@@ -1,3 +1,6 @@
 [submodule "first-angular-app"]
 	path = first-angular-app
 	url = https://github.com/madhanvic/first-angular-app.git
+[submodule "essentials"]
+	path = essentials
+	url = https://github.com/madhanvic/angular-essentials.git
