@@ -51,3 +51,7 @@ Why Components?
 Easier Development with TypeScript
 
 - With Typescript, you can often catch errors early on during development
+
+//Zone Js
+
+- When evers events occurs like user clicks the button or timer expired, Zone js automatically checks the whole application from top to bottom, whether any changes occured. If any changes occured, It checks with template whether the different appropriate to the changed value, Angular will update the view.
